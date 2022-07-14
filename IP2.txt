@@ -1,0 +1,11 @@
+creare cont - > formular -> cod pe email -> inregistrarea in bd
+
+auth ->formular -> inregistrarea in bd
+
+Navigarea pe aplicatie -> cautare produse -> query in db
+
+Adaugarea unui anunt -> auth->formular -> adaugare in bd ceasuri
+
+Comunicarea cu un alt utilizator ->auth->utilizator 2
+
+Achizitionare unui produs -> auth -> navigare -> adaugare in cos -> "buy now" -> payment provider -> livrare
